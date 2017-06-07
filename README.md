@@ -36,12 +36,12 @@ Supported nodes:
 * `ParticleSystem`
 * `TiledMap`
 * `Button`
-* `ProgressBar` (experimental support: unfinished)
+* `ProgressBar`
 * `RichText` (experimental support: unfinished)
 * `SpineSkeleton`
+* `Widget`: only supports `AlignOnce`
+* `Animations`: only supports linear animation
 
-
-Animations and other nodes are planned.
 
 Supporting JavaScript scripts would be overkill. If you need JavaScript scripting
 support, just use Creator.
